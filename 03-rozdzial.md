@@ -1,6 +1,6 @@
 # Rozdział komentarza 03 — Pozaumowne podstawy stosunku pracy, wynagrodzenie za pracę i jego ochrona oraz obowiązki stron stosunku pracy (art. 68 – art. 101⁴)
 
-#### Rozdział III
+#### Rozdział III — Stosunek pracy na podstawie powołania, wyboru, mianowania oraz spółdzielczej umowy o pracę
 
 #### Oddział 1 — Stosunek pracy na podstawie powołania
 

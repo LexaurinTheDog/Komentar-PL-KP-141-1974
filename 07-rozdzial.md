@@ -391,12 +391,10 @@ Przepis wprowadza szczególny reżim postępowania ze środkami ochrony indywidu
 > 1) szczegółowy zakres działania, uprawnienia, organizację, liczebność i podporządkowanie służby bhp;
 >
 > 2) kwalifikacje wymagane do wykonywania zadań służby bhp.
->
-> Konsultacje w zakresie bezpieczeństwa i higieny pracy oraz komisja bezpieczeństwa i higieny pracy
 
 Przepis reguluje organizację służby bezpieczeństwa i higieny pracy (służby bhp) w zakładzie pracy, pełniącej funkcje doradcze i kontrolne w zakresie bhp. § 1 różnicuje obowiązki pracodawcy w zależności od liczby zatrudnionych pracowników: pracodawca zatrudniający więcej niż 100 pracowników jest obowiązany utworzyć służbę bhp jako odrębną komórkę organizacyjną, natomiast pracodawca zatrudniający do 100 pracowników może powierzyć wykonywanie zadań tej służby pracownikowi zatrudnionemu przy innej pracy; ponadto sam pracodawca, jeżeli ukończył wymagane szkolenie, może osobiście wykonywać zadania służby bhp, jeżeli zatrudnia do 10 pracowników albo do 50 pracowników zakwalifikowanych do niskiej (nie wyższej niż trzecia) kategorii ryzyka ubezpieczeniowego. § 2 dopuszcza, w razie braku kompetentnych pracowników, powierzenie zadań służby bhp specjalistom spoza zakładu pracy, przy czym niezależnie od formy realizacji tych zadań osoby te muszą spełniać wymagania kwalifikacyjne i ukończyć odpowiednie szkolenie dla pracowników służby bhp. § 3 wprowadza istotną gwarancję niezależności – pracownik służby bhp oraz pracownik łączący te zadania z inną pracą nie mogą ponosić jakichkolwiek niekorzystnych następstw z powodu wykonywania zadań i uprawnień służby bhp, co ma zapewnić skuteczność kontroli wewnętrznej niezależnie od interesów bieżącej działalności zakładu. § 4 przyznaje właściwemu inspektorowi pracy kompetencję do nakazania utworzenia służby bhp lub zwiększenia liczby jej pracowników, jeżeli jest to uzasadnione stwierdzonymi zagrożeniami zawodowymi – jest to środek nadzorczy pozwalający dostosować wymogi organizacyjne do rzeczywistego poziomu ryzyka w konkretnym zakładzie pracy, niezależnie od progów liczbowych z § 1. § 5 zawiera delegację ustawową dla Rady Ministrów do określenia w rozporządzeniu szczegółowego zakresu działania, uprawnień, organizacji, liczebności i podporządkowania służby bhp oraz kwalifikacji wymaganych do wykonywania jej zadań.
 
-#### Rozdział XI
+#### Rozdział XI — Konsultacje w zakresie bezpieczeństwa i higieny pracy oraz komisja bezpieczeństwa i higieny pracy
 
 ### Art. 237¹¹ᵃ
 
@@ -453,12 +451,10 @@ Przepis określa zadania i zasady funkcjonowania komisji bhp powołanej na podst
 **Brzmienie przepisu:**
 
 > Art. 237¹³ᵃ. Przedstawiciele pracowników, o których mowa w art. 237¹¹ᵃ i art. 237¹², są wybierani przez zakładowe organizacje związkowe, a jeżeli u pracodawcy takie organizacje nie działają – przez pracowników, w trybie przyjętym w zakładzie pracy.
->
-> Obowiązki organów sprawujących nadzór nad przedsiębiorstwami lub innymi jednostkami organizacyjnymi
 
 Przepis reguluje sposób wyłaniania przedstawicieli pracowników zasiadających w gremiach konsultacyjnych opisanych w art. 237¹¹ᵃ (konsultacje w sprawach bhp) oraz art. 237¹² (komisja bhp). Zasadą jest, że przedstawicieli tych wybierają zakładowe organizacje związkowe, a dopiero w razie ich braku u danego pracodawcy – sami pracownicy, w trybie przyjętym w zakładzie pracy, co pozostawia pracodawcom i pracownikom swobodę wyboru konkretnej procedury wyborczej (np. w drodze regulaminu lub zwyczaju zakładowego) w warunkach braku reprezentacji związkowej. Przepis ma znaczenie gwarancyjne dla legitymacji przedstawicieli pracowników uczestniczących w procesach konsultacyjnych i w pracach komisji bhp, zapewniając, że osoby te rzeczywiście reprezentują interesy załogi, a nie zostały wyznaczone jednostronnie przez pracodawcę.
 
-#### Rozdział XII
+#### Rozdział XII — Obowiązki organów sprawujących nadzór nad przedsiębiorstwami lub innymi jednostkami organizacyjnymi państwowymi albo samorządowymi
 
 ### Art. 237¹⁴
 
@@ -471,12 +467,10 @@ Przepis reguluje sposób wyłaniania przedstawicieli pracowników zasiadających
 > 2) dokonywać, co najmniej raz w roku, oceny stanu bezpieczeństwa i higieny pracy w przedsiębiorstwach i jednostkach organizacyjnych oraz określać kierunki poprawy tego stanu;
 >
 > 3) w miarę potrzeb i możliwości – inicjować i prowadzić badania naukowe dotyczące bezpieczeństwa i higieny pracy.
->
-> Przepisy bezpieczeństwa i higieny pracy dotyczące wykonywania prac w różnych gałęziach pracy
 
 Przepis otwiera rozdział XII, dotyczący obowiązków organów sprawujących nadzór nad przedsiębiorstwami lub innymi jednostkami organizacyjnymi państwowymi albo samorządowymi w zakresie kształtowania bezpiecznych i higienicznych warunków pracy. Adresatami tego przepisu nie są zatem pracodawcy, lecz organy nadzorcze wyższego szczebla (np. organy założycielskie, organy nadzoru właścicielskiego) sprawujące zwierzchni nadzór nad podległymi jednostkami. Przepis wymienia przykładowo trzy rodzaje działań tych organów: udzielanie przedsiębiorstwom i jednostkom organizacyjnym pomocy przy wykonywaniu zadań z zakresu bhp, dokonywanie co najmniej raz w roku oceny stanu bezpieczeństwa i higieny pracy w podległych jednostkach oraz określanie kierunków poprawy tego stanu, a także inicjowanie i prowadzenie badań naukowych dotyczących bhp w miarę potrzeb i możliwości. Przepis ma charakter systemowy – uzupełnia obowiązki pracodawców, uregulowane we wcześniejszych rozdziałach działu dziesiątego, o element nadzoru instytucjonalnego sprawowanego w ramach struktur organizacyjnych, do których należy dany zakład pracy, choć w praktyce jego znaczenie jest ograniczone głównie do sfery jednostek państwowych i samorządowych.
 
-#### Rozdział XIII
+#### Rozdział XIII — Przepisy bezpieczeństwa i higieny pracy dotyczące wykonywania prac w różnych gałęziach pracy
 
 ### Art. 237¹⁵
 

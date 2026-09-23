@@ -379,12 +379,10 @@ Artykuł 54 został uchylony. Regulował wcześniej szczególny tryb rozwiązywa
 > § 2. Oświadczenie pracownika o rozwiązaniu umowy o pracę bez wypowiedzenia powinno nastąpić na piśmie, z podaniem przyczyny uzasadniającej rozwiązanie umowy. Przepis art. 52 § 2 stosuje się odpowiednio.
 >
 > § 3. Rozwiązanie umowy o pracę z przyczyn określonych w § 1 i 1¹ pociąga za sobą skutki, jakie przepisy prawa wiążą z rozwiązaniem umowy przez pracodawcę za wypowiedzeniem.
->
-> Uprawnienia pracownika w razie niezgodnego z prawem rozwiązania przez pracodawcę
 
 Przepis reguluje rozwiązanie umowy o pracę bez wypowiedzenia z inicjatywy pracownika. Paragraf 1 przyznaje pracownikowi to uprawnienie, jeżeli lekarz stwierdzi w orzeczeniu szkodliwy wpływ wykonywanej pracy na jego zdrowie, a pracodawca nie przeniesie go w terminie wskazanym w orzeczeniu do innej pracy odpowiedniej ze względu na stan zdrowia i kwalifikacje zawodowe – jest to jedyny przypadek rozwiązania w tym trybie niezwiązany z zawinionym zachowaniem pracodawcy. Paragraf 1¹ rozszerza to uprawnienie na sytuację, w której pracodawca dopuścił się ciężkiego naruszenia podstawowych obowiązków wobec pracownika (np. niewypłacania wynagrodzenia, mobbingu, naruszenia zasad bezpieczeństwa i higieny pracy) – w takim przypadku pracownikowi przysługuje odszkodowanie w wysokości wynagrodzenia za okres wypowiedzenia, a przy umowie na czas określony – w wysokości wynagrodzenia za czas, do którego umowa miała trwać, nie więcej jednak niż za okres wypowiedzenia. Paragraf 2 zastrzega dla oświadczenia pracownika formę pisemną z podaniem przyczyny oraz nakazuje odpowiednie stosowanie miesięcznego terminu prekluzyjnego z art. 52 § 2. Paragraf 3 przesądza, że rozwiązanie umowy z przyczyn określonych w § 1 i 1¹ pociąga za sobą skutki, jakie przepisy prawa wiążą z rozwiązaniem umowy przez pracodawcę za wypowiedzeniem – co ma istotne znaczenie praktyczne m.in. dla uprawnień z tytułu bezrobocia oraz treści świadectwa pracy, mimo że formalnie inicjatywa rozwiązania wychodzi od pracownika.
 
-#### Oddział 6
+#### Oddział 6 — Uprawnienia pracownika w razie niezgodnego z prawem rozwiązania przez pracodawcę — umowy o pracę bez wypowiedzenia
 
 ### Art. 56
 
@@ -439,12 +437,10 @@ Przepis reguluje szczególny przypadek, w którym pracodawca – po uprzednim wy
 **Brzmienie przepisu:**
 
 > Art. 61. Do pracownika, któremu przyznano odszkodowanie na podstawie przepisów niniejszego oddziału, stosuje się odpowiednio przepis art. 51 § 2.
->
-> Uprawnienia pracodawcy w razie nieuzasadnionego rozwiązania przez pracownika umowy o pracę
 
 Przepis nakazuje odpowiednie stosowanie art. 51 § 2 (dotyczącego wliczania do okresu zatrudnienia okresu pozostawania bez pracy odpowiadającego okresowi, za który przyznano odszkodowanie) do pracownika, któremu przyznano odszkodowanie na podstawie przepisów niniejszego oddziału (a więc odszkodowań z art. 58, 59 i 60, przysługujących w razie niezgodnego z prawem rozwiązania umowy przez pracodawcę bez wypowiedzenia). Przepis ten ujednolica sytuację prawną pracowników otrzymujących odszkodowanie niezależnie od tego, czy podstawą było wadliwe wypowiedzenie, czy wadliwe rozwiązanie bez wypowiedzenia.
 
-#### Oddział 6a
+#### Oddział 6a — Uprawnienia pracodawcy w razie nieuzasadnionego rozwiązania przez pracownika umowy o pracę bez wypowiedzenia
 
 ### Art. 61¹
 
@@ -827,7 +823,5 @@ Przepis reguluje odrębną, uproszczoną instytucję pracy zdalnej okazjonalnej.
 **Brzmienie przepisu:**
 
 > Art. 67³⁴. Przepisy niniejszego rozdziału stosuje się także do stosunków pracy nawiązanych na innej podstawie niż umowa o pracę.
->
-> Stosunek pracy na podstawie powołania, wyboru, mianowania oraz spółdzielczej umowy o pracę
 
 Przepis zamyka rozdział IIc, rozciągając zastosowanie jego przepisów poza stosunki pracy nawiązane umową o pracę. Przepisy o pracy zdalnej stosuje się także do stosunków pracy nawiązanych na innej podstawie niż umowa o pracę – a więc do stosunków pracy z powołania, wyboru, mianowania oraz spółdzielczej umowy o pracę, o których traktują dalsze rozdziały działu drugiego kodeksu. Rozwiązanie to zapewnia jednolite stosowanie instytucji pracy zdalnej niezależnie od podstawy nawiązania stosunku pracy, tak aby pracownicy zatrudnieni w ramach stosunków pozaumownych nie byli pozbawieni możliwości korzystania z tej formy organizacji pracy ani wyłączeni spod związanych z nią gwarancji i obowiązków.
