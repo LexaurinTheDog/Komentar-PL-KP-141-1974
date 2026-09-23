@@ -440,7 +440,7 @@ Przepis reguluje szczególny przypadek, w którym pracodawca – po uprzednim wy
 
 Przepis nakazuje odpowiednie stosowanie art. 51 § 2 (dotyczącego wliczania do okresu zatrudnienia okresu pozostawania bez pracy odpowiadającego okresowi, za który przyznano odszkodowanie) do pracownika, któremu przyznano odszkodowanie na podstawie przepisów niniejszego oddziału (a więc odszkodowań z art. 58, 59 i 60, przysługujących w razie niezgodnego z prawem rozwiązania umowy przez pracodawcę bez wypowiedzenia). Przepis ten ujednolica sytuację prawną pracowników otrzymujących odszkodowanie niezależnie od tego, czy podstawą było wadliwe wypowiedzenie, czy wadliwe rozwiązanie bez wypowiedzenia.
 
-#### Oddział 6a — Uprawnienia pracodawcy w razie nieuzasadnionego rozwiązania przez pracownika umowy o pracę bez wypowiedzenia
+#### Oddział 6a — Uprawnienia pracodawcy w razie nieuzasadnionego rozwiązania przez pracownika umowy o pracę — bez wypowiedzenia
 
 ### Art. 61¹
 
@@ -700,9 +700,9 @@ Przepis reguluje obowiązki pracodawcy związane z zapewnieniem pracownikowi nar
 
 **Brzmienie przepisu:**
 
-> Art. 67²⁵. Zapewnienie pracownikowi wykonującemu pracę zdalną przez pracodawcę materiałów i narzędzi pracy, w tym urządzeń technicznych, niezbędnych do wykonywania pracy zdalnej, pokrycie kosztów związanych z wykonywaniem pracy zdalnej przez pracownika i wypłata ekwiwalentu pieniężnego lub ryczałtu nie stanowią przychodu w rozumieniu przepisów ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226, z późn. zm.).
+> Art. 67²⁵. Zapewnienie pracownikowi wykonującemu pracę zdalną przez pracodawcę materiałów i narzędzi pracy, w tym urządzeń technicznych, niezbędnych do wykonywania pracy zdalnej, pokrycie kosztów związanych z wykonywaniem pracy zdalnej przez pracownika i wypłata ekwiwalentu pieniężnego lub ryczałtu nie stanowią przychodu w rozumieniu przepisów ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226, z późn. zm.⁽⁴⁾).
 
-*Odnośnik w tekście jednolitym:* Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 232, 854, 858, 859, 863, 1572, 1585, 1593, 1615 i 1635.
+*Odnośnik w tekście jednolitym* 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 232, 854, 858, 859, 863, 1572, 1585, 1593, 1615 i 1635.
 
 Przepis ustanawia zasadę neutralności podatkowej świadczeń związanych z pracą zdalną po stronie pracownika. Zapewnienie przez pracodawcę materiałów i narzędzi pracy, pokrycie kosztów związanych z wykonywaniem pracy zdalnej, a także wypłata ekwiwalentu pieniężnego lub ryczałtu, o których mowa w art. 67²⁴, nie stanowią przychodu pracownika w rozumieniu przepisów ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych. Rozwiązanie to ma istotne znaczenie praktyczne, gdyż wyłącza konieczność opodatkowania i oskładkowania tych świadczeń jako elementu wynagrodzenia – bez tego przepisu zwrot kosztów lub ryczałt mógłby być kwalifikowany jako nieodpłatne świadczenie na rzecz pracownika podlegające opodatkowaniu. Zamieszczony przy tym artykule przypis urzędowy informuje o kolejnych zmianach tekstu jednolitego wskazanej ustawy o podatku dochodowym od osób fizycznych, ogłoszonych w Dzienniku Ustaw z 2024 r. pod pozycjami 232, 854, 858, 859, 863, 1572, 1585, 1593, 1615 i 1635, co potwierdza aktualność odesłania na dzień sporządzenia tekstu jednolitego kodeksu pracy.
 

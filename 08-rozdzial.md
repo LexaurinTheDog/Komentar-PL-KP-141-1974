@@ -484,11 +484,11 @@ Przepis wprowadza instytucję przywrócenia uchybionego terminu, łagodzącą ry
 
 **Brzmienie przepisu:**
 
-> Art. 266–280.
+> Art. 266–280.⁽³¹⁾
 >
 > (oznaczenie oraz tytuł rozdziału I – uchylone)
 
-*Odnośnik w tekście jednolitym:* Na podstawie art. 4 pkt 5 ustawy z dnia 18 kwietnia 1985 r. o rozpoznawaniu przez sądy spraw z zakresu prawa pracy i ubezpieczeń społecznych (Dz. U. poz. 85), która weszła w życie z dniem 1 lipca 1985 r., dział dwunasty nie obejmuje art. 266–280.
+*Odnośnik w tekście jednolitym* 31) Na podstawie art. 4 pkt 5 ustawy z dnia 18 kwietnia 1985 r. o rozpoznawaniu przez sądy spraw z zakresu prawa pracy i ubezpieczeń społecznych (Dz. U. poz. 85), która weszła w życie z dniem 1 lipca 1985 r., dział dwunasty nie obejmuje art. 266–280.
 
 Jednostka ta nie zawiera odrębnej treści normatywnej – zgodnie z załączonym przypisem urzędowym, na podstawie art. 4 pkt 5 ustawy z dnia 18 kwietnia 1985 r. o rozpoznawaniu przez sądy spraw z zakresu prawa pracy i ubezpieczeń społecznych, która weszła w życie z dniem 1 lipca 1985 r., dział dwunasty kodeksu nie obejmuje już artykułów 266–280, a wraz z nimi uchylone zostało oznaczenie oraz tytuł dotychczasowego rozdziału I tego zakresu. Materia procesowa uprzednio regulowana w tych przepisach (dotycząca postępowania sądowego w sprawach z zakresu prawa pracy) została przeniesiona do odrębnej ustawy proceduralnej, a następnie inkorporowana do przepisów Kodeksu postępowania cywilnego o postępowaniu odrębnym w sprawach z zakresu prawa pracy i ubezpieczeń społecznych, do których odsyła obecnie art. 262 § 3.
 
@@ -638,7 +638,7 @@ Przepis został uchylony. Otwierał on pierwotnie dział piętnasty, zawierając
 
 **Brzmienie przepisu:**
 
-> Art. 297. Minister Pracy i Polityki Socjalnej określi w drodze rozporządzenia:
+> Art. 297. Minister Pracy i Polityki Socjalnej⁽¹⁰⁾ określi w drodze rozporządzenia:
 >
 > 1) sposób ustalania wynagrodzenia:
 >
@@ -646,7 +646,7 @@ Przepis został uchylony. Otwierał on pierwotnie dział piętnasty, zawierając
 >
 > 2) sposób ustalania wysokości dodatków wyrównawczych do wynagrodzenia.
 
-*Odnośnik w tekście jednolitym:* Obecnie minister właściwy do spraw pracy, na podstawie art. 4 ust. 1, art. 5 pkt 16 oraz art. 21 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2024 r. poz. 1370 i 1907), która weszła w życie z dniem 1 kwietnia 1999 r.
+*Odnośnik w tekście jednolitym* 10) Obecnie minister właściwy do spraw pracy, na podstawie art. 4 ust. 1, art. 5 pkt 16 oraz art. 21 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2024 r. poz. 1370 i 1907), która weszła w życie z dniem 1 kwietnia 1999 r.
 
 Przepis zawiera upoważnienie ustawowe do wydania rozporządzenia wykonawczego w zakresie sposobu ustalania wysokości niektórych świadczeń pracowniczych. Punkt 1 obejmuje sposób ustalania wynagrodzenia przysługującego w okresie niewykonywania pracy (lit. a) oraz wynagrodzenia stanowiącego podstawę ustalania wysokości kar pieniężnych, potrąceń, odszkodowań, odpraw pośmiertnych lub innych należności przewidzianych w Kodeksie pracy (lit. b) – jest to więc regulacja o charakterze technicznym, lecz o istotnym znaczeniu praktycznym, ponieważ od sposobu obliczenia tego wynagrodzenia zależy wysokość licznych świadczeń pracowniczych obliczanych na jego podstawie w całym kodeksie. Punkt 2 obejmuje sposób ustalania wysokości dodatków wyrównawczych do wynagrodzenia, przysługujących m.in. w razie przeniesienia pracownika do innej pracy z przyczyn zdrowotnych. Załączony przypis urzędowy wyjaśnia, że organem obecnie właściwym do wykonania tego upoważnienia jest minister właściwy do spraw pracy, na podstawie art. 4 ust. 1, art. 5 pkt 16 oraz art. 21 ustawy z dnia 4 września 1997 r. o działach administracji rządowej – pierwotne odesłanie do Ministra Pracy i Polityki Socjalnej ma dziś znaczenie wyłącznie historyczne, wynikające ze zmian w strukturze naczelnych organów administracji rządowej.
 
@@ -672,9 +672,9 @@ Przepis zawiera upoważnienie ustawowe do wydania rozporządzenia wykonawczego d
 
 **Brzmienie przepisu:**
 
-> Art. 298². Minister Pracy i Polityki Socjalnej określi, w drodze rozporządzenia, sposób usprawiedliwiania nieobecności w pracy oraz zakres przysługujących pracownikom zwolnień od pracy, a także przypadki, w których za czas nieobecności lub zwolnienia pracownik zachowuje prawo do wynagrodzenia.
+> Art. 298². Minister Pracy i Polityki Socjalnej⁽¹⁰⁾ określi, w drodze rozporządzenia, sposób usprawiedliwiania nieobecności w pracy oraz zakres przysługujących pracownikom zwolnień od pracy, a także przypadki, w których za czas nieobecności lub zwolnienia pracownik zachowuje prawo do wynagrodzenia.
 
-*Odnośnik w tekście jednolitym:* Obecnie minister właściwy do spraw pracy, na podstawie art. 4 ust. 1, art. 5 pkt 16 oraz art. 21 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2024 r. poz. 1370 i 1907), która weszła w życie z dniem 1 kwietnia 1999 r.
+*Odnośnik w tekście jednolitym* 10) Obecnie minister właściwy do spraw pracy, na podstawie art. 4 ust. 1, art. 5 pkt 16 oraz art. 21 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2024 r. poz. 1370 i 1907), która weszła w życie z dniem 1 kwietnia 1999 r.
 
 Przepis zawiera upoważnienie ustawowe do wydania rozporządzenia w sprawie usprawiedliwiania nieobecności pracownika w pracy oraz zwolnień od pracy. Obejmuje ono sposób usprawiedliwiania nieobecności w pracy, zakres przysługujących pracownikom zwolnień od pracy, a także przypadki, w których za czas nieobecności lub zwolnienia pracownik zachowuje prawo do wynagrodzenia – jest to regulacja o dużym znaczeniu praktycznym, determinująca m.in. zasady usprawiedliwiania nieobecności spowodowanej chorobą, wezwaniem do organu władzy publicznej czy innymi zdarzeniami losowymi. Załączony przypis urzędowy wskazuje – analogicznie jak przy art. 297 – że organem obecnie właściwym do wykonania upoważnienia jest minister właściwy do spraw pracy, na podstawie tych samych przepisów ustawy o działach administracji rządowej, w miejsce pierwotnie wskazanego Ministra Pracy i Polityki Socjalnej.
 
@@ -706,11 +706,11 @@ Przepis pełni fundamentalną funkcję systemową jako klauzula generalna odsył
 
 **Brzmienie przepisu:**
 
-> Art. 301. § 1. Szczególne uprawnienia związane ze stosunkiem pracy osób powołanych do czynnej służby wojskowej i zwolnionych z tej służby normują przepisy ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, z późn. zm.).
+> Art. 301. § 1. Szczególne uprawnienia związane ze stosunkiem pracy osób powołanych do czynnej służby wojskowej i zwolnionych z tej służby normują przepisy ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, z późn. zm.⁽³²⁾).
 >
 > § 2. Okres czynnej służby wojskowej wlicza się do okresu zatrudnienia w zakresie i na zasadach przewidzianych w przepisach, o których mowa w § 1.
 
-*Odnośnik w tekście jednolitym:* Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1248, 1585, 1871 i 1907 oraz z 2025 r. poz. 39.
+*Odnośnik w tekście jednolitym* 32) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1248, 1585, 1871 i 1907 oraz z 2025 r. poz. 39.
 
 Przepis reguluje relację między Kodeksem pracy a przepisami szczególnymi dotyczącymi ochrony stosunku pracy osób powołanych do czynnej służby wojskowej. Paragraf 1 odsyła w zakresie szczególnych uprawnień związanych ze stosunkiem pracy takich osób – zarówno powołanych do służby, jak i z niej zwolnionych – do ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, co oznacza, że kodeks pracy nie reguluje tej materii samodzielnie, lecz jedynie potwierdza właściwość przepisów odrębnych. Paragraf 2 określa jeden ogólny skutek prawny wynikający z tego odesłania: okres czynnej służby wojskowej wlicza się do okresu zatrudnienia w zakresie i na zasadach przewidzianych w przepisach ustawy, o której mowa w § 1 – ma to znaczenie dla ustalania uprawnień pracowniczych zależnych od stażu pracy, takich jak wymiar urlopu wypoczynkowego czy prawo do odprawy. Załączony przypis urzędowy wskazuje kolejne nowelizacje tekstu jednolitego ustawy o obronie Ojczyzny, ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1248, 1585, 1871 i 1907 oraz z 2025 r. poz. 39, co ma znaczenie informacyjne dla ustalenia aktualnego brzmienia przepisów, do których odsyła § 1.
 

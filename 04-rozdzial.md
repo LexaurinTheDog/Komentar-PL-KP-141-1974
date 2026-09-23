@@ -14,9 +14,9 @@ Przepis otwiera rozdział III działu czwartego, poświęcony kwalifikacjom zawo
 
 **Brzmienie przepisu:**
 
-> Art. 103. (utracił moc)
+> Art. 103. (utracił moc)⁽⁵⁾
 
-*Odnośnik w tekście jednolitym:* Z dniem 11 kwietnia 2010 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 31 marca 2009 r. sygn. akt K 28/08 (Dz. U. poz. 485).
+*Odnośnik w tekście jednolitym* 5) Z dniem 11 kwietnia 2010 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 31 marca 2009 r. sygn. akt K 28/08 (Dz. U. poz. 485).
 
 Artykuł 103 utracił moc z dniem 11 kwietnia 2010 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 31 marca 2009 r., sygn. akt K 28/08. Regulował on uprzednio ułatwienia w podnoszeniu kwalifikacji zawodowych przez pracowników w formach pozaszkolnych, jednak Trybunał Konstytucyjny uznał tę regulację za niezgodną z Konstytucją, co skutkowało jej derogacją; w miejsce dawnego unormowania ustawodawca wprowadził następnie kompleksową regulację podnoszenia kwalifikacji zawodowych zawartą w art. 103¹–103⁶.
 
@@ -482,9 +482,9 @@ Przepis otwiera rozdział II, dotyczący norm i ogólnego wymiaru czasu pracy, i
 >
 > § 2. Każde święto występujące w okresie rozliczeniowym i przypadające w innym dniu niż niedziela obniża wymiar czasu pracy o 8 godzin.
 >
-> § 2¹. (utracił moc) § 3. Wymiar czasu pracy pracownika w okresie rozliczeniowym, ustalony zgodnie z art. 129 § 1, ulega w tym okresie obniżeniu o liczbę godzin usprawiedliwionej nieobecności w pracy, przypadających do przepracowania w czasie tej nieobecności, zgodnie z przyjętym rozkładem czasu pracy.
+> § 2¹. (utracił moc)⁽⁶⁾ § 3. Wymiar czasu pracy pracownika w okresie rozliczeniowym, ustalony zgodnie z art. 129 § 1, ulega w tym okresie obniżeniu o liczbę godzin usprawiedliwionej nieobecności w pracy, przypadających do przepracowania w czasie tej nieobecności, zgodnie z przyjętym rozkładem czasu pracy.
 
-*Odnośnik w tekście jednolitym:* Z dniem 8 października 2012 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 2 października 2012 r. sygn. akt K 27/11 (Dz. U. poz. 1110).
+*Odnośnik w tekście jednolitym* 6) Z dniem 8 października 2012 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 2 października 2012 r. sygn. akt K 27/11 (Dz. U. poz. 1110).
 
 Przepis określa metodę obliczania obowiązującego pracownika wymiaru czasu pracy w przyjętym okresie rozliczeniowym. Paragraf 1 wprowadza dwuetapowy algorytm: mnoży się 40 godzin przez liczbę tygodni przypadających w okresie rozliczeniowym (pkt 1), a następnie dodaje się do otrzymanej liczby godzin iloczyn 8 godzin i liczby dni pozostałych do końca okresu rozliczeniowego, przypadających od poniedziałku do piątku (pkt 2) – metoda ta pozwala precyzyjnie wyliczyć nominalny wymiar czasu pracy niezależnie od długości i przebiegu konkretnego okresu rozliczeniowego. Paragraf 2 obniża tak obliczony wymiar czasu pracy o 8 godzin za każde święto występujące w okresie rozliczeniowym i przypadające w innym dniu niż niedziela. Paragraf 2¹ utracił moc z dniem 8 października 2012 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 2 października 2012 r., sygn. akt K 27/11 – regulował on uprzednio zasadę nieobniżania wymiaru czasu pracy o godziny zwolnienia od pracy udzielonego pracownikowi w związku z oddaniem krwi, którą Trybunał uznał za niezgodną z Konstytucją w zakresie, w jakim nie przewidywała takiego obniżenia. Paragraf 3 przewiduje dalsze obniżenie wymiaru czasu pracy o liczbę godzin usprawiedliwionej nieobecności w pracy, przypadających do przepracowania w czasie tej nieobecności, zgodnie z przyjętym rozkładem czasu pracy – przepis ten zapewnia, że pracownik nieobecny w pracy z usprawiedliwionych przyczyn nie jest zobowiązany do odpracowania czasu przypadającego na okres tej nieobecności.
 

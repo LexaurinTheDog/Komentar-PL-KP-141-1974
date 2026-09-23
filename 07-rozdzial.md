@@ -46,17 +46,17 @@ Przepis rozwija obowiązek profilaktyczny pracodawcy w zakresie zapobiegania cho
 >
 > § 2. Do zadań Komisji, o której mowa w § 1, należy:
 >
-> 1) przedkładanie Ministrowi Pracy i Polityki Socjalnej wniosków dotyczących wartości najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia w środowisku pracy – do celów określonych w § 3;
+> 1) przedkładanie Ministrowi Pracy i Polityki Socjalnej⁽²⁸⁾ wniosków dotyczących wartości najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia w środowisku pracy – do celów określonych w § 3;
 >
 > 2) inicjowanie prac badawczych niezbędnych do realizacji zadań, o których mowa w pkt 1.
 >
-> § 3. Minister Pracy i Polityki Socjalnej w porozumieniu z Ministrem Zdrowia i Opieki Społecznej określi, w drodze rozporządzenia, wykaz najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia w środowisku pracy.
+> § 3. Minister Pracy i Polityki Socjalnej⁽¹⁰⁾ w porozumieniu z Ministrem Zdrowia i Opieki Społecznej⁽²⁴⁾ określi, w drodze rozporządzenia, wykaz najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia w środowisku pracy.
 
-*Odnośnik w tekście jednolitym:* Obecnie ministrowi właściwemu do spraw pracy, na podstawie art. 4 ust. 1, art. 5 pkt 16 oraz art. 21 ustawy, o której mowa w odnośniku 10.
+*Odnośnik w tekście jednolitym* 28) Obecnie ministrowi właściwemu do spraw pracy, na podstawie art. 4 ust. 1, art. 5 pkt 16 oraz art. 21 ustawy, o której mowa w odnośniku 10.
 
-*Odnośnik w tekście jednolitym:* Obecnie minister właściwy do spraw pracy, na podstawie art. 4 ust. 1, art. 5 pkt 16 oraz art. 21 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2024 r. poz. 1370 i 1907), która weszła w życie z dniem 1 kwietnia 1999 r.
+*Odnośnik w tekście jednolitym* 10) Obecnie minister właściwy do spraw pracy, na podstawie art. 4 ust. 1, art. 5 pkt 16 oraz art. 21 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2024 r. poz. 1370 i 1907), która weszła w życie z dniem 1 kwietnia 1999 r.
 
-*Odnośnik w tekście jednolitym:* Obecnie ministrem właściwym do spraw zdrowia, na podstawie art. 4 ust. 1, art. 5 pkt 28 oraz art. 33 ustawy, o której mowa w odnośniku 10.
+*Odnośnik w tekście jednolitym* 24) Obecnie ministrem właściwym do spraw zdrowia, na podstawie art. 4 ust. 1, art. 5 pkt 28 oraz art. 33 ustawy, o której mowa w odnośniku 10.
 
 Przepis ma charakter organizacyjno-kompetencyjny i dotyczy funkcjonowania Międzyresortowej Komisji do Spraw Najwyższych Dopuszczalnych Stężeń i Natężeń Czynników Szkodliwych dla Zdrowia w Środowisku Pracy. § 1 upoważnia Prezesa Rady Ministrów do powołania tej Komisji w drodze rozporządzenia oraz określenia jej uprawnień i sposobu wykonywania zadań; Komisja pełni funkcję opiniodawczo-doradczą w zakresie ustalania norm higienicznych w środowisku pracy. § 2 określa zadania Komisji – przedkładanie właściwemu ministrowi wniosków dotyczących wartości najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych (NDS i NDN) oraz inicjowanie niezbędnych prac badawczych. § 3 zawiera delegację ustawową do wydania rozporządzenia określającego wykaz tych wartości – aktualnie kompetencja ta należy, zgodnie z załączonymi przypisami urzędowymi, do ministra właściwego do spraw pracy działającego w porozumieniu z ministrem właściwym do spraw zdrowia, na podstawie ustawy o działach administracji rządowej, która zmieniła pierwotny układ kompetencji ministerialnych określony w tekście kodeksu z 1974 r. Wykaz NDS i NDN wydany na podstawie § 3 stanowi kluczowy punkt odniesienia przy ocenie ryzyka zawodowego dokonywanej przez pracodawcę na podstawie art. 226 pkt 1 oraz przy badaniach i pomiarach czynników szkodliwych prowadzonych na podstawie art. 227.
 
@@ -258,11 +258,11 @@ Przepis określa dwa rodzaje świadczeń przysługujących pracownikowi w związ
 
 **Brzmienie przepisu:**
 
-> Art. 237². Minister Edukacji Narodowej jest obowiązany zapewnić uwzględnianie problematyki bezpieczeństwa i higieny pracy oraz ergonomii w programach nauczania w szkołach, po uzgodnieniu zakresu tej problematyki z Ministrem Pracy i Polityki Socjalnej.
+> Art. 237². Minister Edukacji Narodowej⁽²⁹⁾ jest obowiązany zapewnić uwzględnianie problematyki bezpieczeństwa i higieny pracy oraz ergonomii w programach nauczania w szkołach, po uzgodnieniu zakresu tej problematyki z Ministrem Pracy i Polityki Socjalnej⁽²⁶⁾.
 
-*Odnośnik w tekście jednolitym:* Obecnie minister właściwy do spraw oświaty i wychowania, na podstawie art. 4 ust. 1, art. 5 pkt 15 oraz art. 20 ustawy, o której mowa w odnośniku 10.
+*Odnośnik w tekście jednolitym* 29) Obecnie minister właściwy do spraw oświaty i wychowania, na podstawie art. 4 ust. 1, art. 5 pkt 15 oraz art. 20 ustawy, o której mowa w odnośniku 10.
 
-*Odnośnik w tekście jednolitym:* Obecnie ministrem właściwym do spraw pracy, na podstawie art. 4 ust. 1, art. 5 pkt 16 oraz art. 21 ustawy, o której mowa w odnośniku 10.
+*Odnośnik w tekście jednolitym* 26) Obecnie ministrem właściwym do spraw pracy, na podstawie art. 4 ust. 1, art. 5 pkt 16 oraz art. 21 ustawy, o której mowa w odnośniku 10.
 
 Przepis, mimo umieszczenia w rozdziale poświęconym szkoleniu w dziedzinie bezpieczeństwa i higieny pracy, dotyczy bezpośrednio nie pracodawców, lecz systemu oświaty – nakłada na ministra właściwego do spraw oświaty i wychowania (pierwotnie Ministra Edukacji Narodowej) obowiązek zapewnienia uwzględniania problematyki bezpieczeństwa i higieny pracy oraz ergonomii w programach nauczania w szkołach, po uzgodnieniu zakresu tej problematyki z ministrem właściwym do spraw pracy. Ma to na celu wykształcenie u przyszłych pracowników i pracodawców podstawowej świadomości zagrożeń zawodowych i zasad bezpiecznego wykonywania pracy jeszcze przed wejściem na rynek pracy, co uzupełnia system szkoleń stanowiskowych i okresowych prowadzonych już w toku zatrudnienia na podstawie art. 237³. Zgodnie z załączonymi przypisami urzędowymi, właściwość ministrów wskazanych pierwotnie w przepisie uległa zmianie na skutek reformy administracji rządowej i obecnie należy odpowiednio do ministra właściwego do spraw oświaty i wychowania oraz ministra właściwego do spraw pracy, zgodnie z ustawą o działach administracji rządowej.
 
@@ -454,7 +454,7 @@ Przepis określa zadania i zasady funkcjonowania komisji bhp powołanej na podst
 
 Przepis reguluje sposób wyłaniania przedstawicieli pracowników zasiadających w gremiach konsultacyjnych opisanych w art. 237¹¹ᵃ (konsultacje w sprawach bhp) oraz art. 237¹² (komisja bhp). Zasadą jest, że przedstawicieli tych wybierają zakładowe organizacje związkowe, a dopiero w razie ich braku u danego pracodawcy – sami pracownicy, w trybie przyjętym w zakładzie pracy, co pozostawia pracodawcom i pracownikom swobodę wyboru konkretnej procedury wyborczej (np. w drodze regulaminu lub zwyczaju zakładowego) w warunkach braku reprezentacji związkowej. Przepis ma znaczenie gwarancyjne dla legitymacji przedstawicieli pracowników uczestniczących w procesach konsultacyjnych i w pracach komisji bhp, zapewniając, że osoby te rzeczywiście reprezentują interesy załogi, a nie zostały wyznaczone jednostronnie przez pracodawcę.
 
-#### Rozdział XII — Obowiązki organów sprawujących nadzór nad przedsiębiorstwami lub innymi jednostkami organizacyjnymi państwowymi albo samorządowymi
+#### Rozdział XII — Obowiązki organów sprawujących nadzór nad przedsiębiorstwami lub innymi jednostkami organizacyjnymi — państwowymi albo samorządowymi
 
 ### Art. 237¹⁴
 
@@ -476,17 +476,15 @@ Przepis otwiera rozdział XII, dotyczący obowiązków organów sprawujących na
 
 **Brzmienie przepisu:**
 
-> Art. 237¹⁵. § 1. Minister Pracy i Polityki Socjalnej w porozumieniu z Ministrem Zdrowia i Opieki Społecznej określi, w drodze rozporządzenia, ogólnie obowiązujące przepisy bezpieczeństwa i higieny pracy dotyczące prac wykonywanych w różnych gałęziach pracy.
+> Art. 237¹⁵. § 1. Minister Pracy i Polityki Socjalnej⁽¹⁰⁾ w porozumieniu z Ministrem Zdrowia i Opieki Społecznej⁽²⁴⁾ określi, w drodze rozporządzenia, ogólnie obowiązujące przepisy bezpieczeństwa i higieny pracy dotyczące prac wykonywanych w różnych gałęziach pracy.
 >
-> § 2. Ministrowie właściwi dla określonych gałęzi pracy lub rodzajów prac w porozumieniu z Ministrem Pracy i Polityki Socjalnej oraz Ministrem Zdrowia i Opieki Społecznej określą, w drodze rozporządzenia, przepisy bezpieczeństwa i higieny pracy dotyczące tych gałęzi lub prac.
+> § 2. Ministrowie właściwi dla określonych gałęzi pracy lub rodzajów prac w porozumieniu z Ministrem Pracy i Polityki Socjalnej⁽²⁶⁾ oraz Ministrem Zdrowia i Opieki Społecznej⁽²⁴⁾ określą, w drodze rozporządzenia, przepisy bezpieczeństwa i higieny pracy dotyczące tych gałęzi lub prac.
 
-*Odnośnik w tekście jednolitym:* Obecnie minister właściwy do spraw pracy, na podstawie art. 4 ust. 1, art. 5 pkt 16 oraz art. 21 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2024 r. poz. 1370 i 1907), która weszła w życie z dniem 1 kwietnia 1999 r.
+*Odnośnik w tekście jednolitym* 10) Obecnie minister właściwy do spraw pracy, na podstawie art. 4 ust. 1, art. 5 pkt 16 oraz art. 21 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2024 r. poz. 1370 i 1907), która weszła w życie z dniem 1 kwietnia 1999 r.
 
-*Odnośnik w tekście jednolitym:* Obecnie ministrem właściwym do spraw zdrowia, na podstawie art. 4 ust. 1, art. 5 pkt 28 oraz art. 33 ustawy, o której mowa w odnośniku 10.
+*Odnośnik w tekście jednolitym* 24) Obecnie ministrem właściwym do spraw zdrowia, na podstawie art. 4 ust. 1, art. 5 pkt 28 oraz art. 33 ustawy, o której mowa w odnośniku 10.
 
-*Odnośnik w tekście jednolitym:* Obecnie ministrem właściwym do spraw pracy, na podstawie art. 4 ust. 1, art. 5 pkt 16 oraz art. 21 ustawy, o której mowa w odnośniku 10.
-
-*Odnośnik w tekście jednolitym:* Obecnie ministrem właściwym do spraw zdrowia, na podstawie art. 4 ust. 1, art. 5 pkt 28 oraz art. 33 ustawy, o której mowa w odnośniku 10.
+*Odnośnik w tekście jednolitym* 26) Obecnie ministrem właściwym do spraw pracy, na podstawie art. 4 ust. 1, art. 5 pkt 16 oraz art. 21 ustawy, o której mowa w odnośniku 10.
 
 Przepis zamyka dział dziesiąty Kodeksu pracy i zawiera delegacje ustawowe do wydania przepisów bezpieczeństwa i higieny pracy dotyczących wykonywania prac w różnych gałęziach gospodarki. § 1 upoważnia ministra właściwego do spraw pracy, działającego w porozumieniu z ministrem właściwym do spraw zdrowia, do określenia w rozporządzeniu ogólnie obowiązujących przepisów bhp dotyczących prac wykonywanych w różnych gałęziach pracy – rozporządzenie to stanowi podstawowy akt wykonawczy konkretyzujący standardy bezpieczeństwa obowiązujące we wszystkich zakładach pracy, niezależnie od branży, m.in. w zakresie wymagań dla pomieszczeń pracy, urządzeń higieniczno-sanitarnych czy procesów pracy. § 2 upoważnia ministrów właściwych dla poszczególnych gałęzi pracy lub rodzajów prac, działających w porozumieniu z ministrem właściwym do spraw pracy oraz ministrem właściwym do spraw zdrowia, do określenia przepisów bhp dotyczących tych konkretnych gałęzi lub rodzajów prac – pozwala to na uwzględnienie specyfiki zagrożeń właściwych dla poszczególnych sektorów gospodarki, których nie sposób w sposób adekwatny uregulować w jednym akcie ogólnym. Zgodnie z załączonymi przypisami urzędowymi, pierwotnie wskazani w przepisie Minister Pracy i Polityki Socjalnej oraz Minister Zdrowia i Opieki Społecznej odpowiadają obecnie odpowiednio ministrowi właściwemu do spraw pracy oraz ministrowi właściwemu do spraw zdrowia, zgodnie z ustawą o działach administracji rządowej.
 
@@ -664,9 +662,9 @@ Przepis reguluje kompetencję do wykładni (wyjaśniania) treści postanowień u
 >
 > § 3. Okres wypowiedzenia układu wynosi trzy miesiące kalendarzowe, chyba że strony w układzie postanowią inaczej.
 >
-> § 4. (utracił moc) § 5. (uchylony)
+> § 4. (utracił moc)⁽³⁰⁾ § 5. (uchylony)
 
-*Odnośnik w tekście jednolitym:* Z dniem 26 listopada 2002 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 18 listopada 2002 r. sygn. akt K. 37/01 (Dz. U. poz. 1660).
+*Odnośnik w tekście jednolitym* 30) Z dniem 26 listopada 2002 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 18 listopada 2002 r. sygn. akt K. 37/01 (Dz. U. poz. 1660).
 
 Przepis reguluje sposoby ustania (rozwiązania) układu zbiorowego pracy. § 1 wymienia trzy podstawy rozwiązania układu: zgodne oświadczenie stron, upływ okresu, na który układ został zawarty (dotyczy to układów na czas określony niewprowadzonych w tryb przedłużenia z art. 241⁵ § 3), oraz upływ okresu wypowiedzenia dokonanego przez jedną ze stron – ta ostatnia podstawa oznacza, że układ, w odróżnieniu od niektórych innych porozumień zbiorowych, może zostać rozwiązany jednostronnie przez każdą ze stron w drodze wypowiedzenia. § 2 wymaga zachowania formy pisemnej zarówno dla oświadczenia stron o rozwiązaniu układu, jak i dla jego wypowiedzenia. § 3 określa domyślny okres wypowiedzenia układu na trzy miesiące kalendarzowe, chyba że strony w układzie postanowią inaczej, co pozostawia im swobodę modyfikacji tego terminu. § 4 i 5 przepisu formalnie pozostają w tekście jednolitym, lecz zgodnie z załączonym przypisem urzędowym § 4 utracił moc z dniem 26 listopada 2002 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 18 listopada 2002 r., sygn. akt K. 37/01, a § 5 został następnie uchylony – Trybunał Konstytucyjny zakwestionował wówczas regulację ograniczającą możliwość jednostronnego wypowiedzenia układu, uznając ją za niezgodną z Konstytucją; w konsekwencji obecnie obowiązujący stan prawny w zakresie wypowiadania układów ogranicza się do reguł zawartych w § 1–3.
 
